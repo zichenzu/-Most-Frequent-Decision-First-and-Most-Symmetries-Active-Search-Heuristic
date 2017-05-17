@@ -7,6 +7,6 @@ Please use Gecode Solver 4.2.0 to run these files.
 
 Put Heuristic folder into gecode folder and DLS_He.cpp file into example folder.
 
-To run the Diagonal Latin Square (DLS) problem (e.g. n=6) using symmetry breaking method LReSBDS:
+To run the Diagonal Latin Square (DLS) problem (e.g. n=6) using symmetry breaking method LReSBDS with incNGs global constraint:
 
 ./DLS_He 6
